@@ -1,0 +1,1 @@
+Git distinguishes between the workspace, the index/staging area, the object store and remote repositories. The workspace is where you do your actual work. It contains tracked files, untracked files and a special directory “.git”. The index (or staging area) is used for preparing commits.
